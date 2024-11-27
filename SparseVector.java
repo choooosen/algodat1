@@ -1,6 +1,6 @@
 // Java Klasse SparseVector
 public class SparseVector {
-	
+	s
 	// Linked List
     private Node head;
     // Länge der Linked List
